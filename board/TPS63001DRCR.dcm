@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63001DRCR
+D 96% Buck-Boost Converter with 1.7A Current Switches, 3.3V fixed Output voltage in 3x3 QFN
+F http://www.ti.com/lit/gpn/tps63001
+$ENDCMP
+#
+#End Doc Library

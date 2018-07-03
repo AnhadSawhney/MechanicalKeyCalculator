@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LGR971
+#
+DEF LGR971 D 0 40 N N 1 L N
+F0 "D" 140 -181 50 V V L BNN
+F1 "LGR971" 225 -180 50 V V L BNN
+F2 "0805_R" 0 0 50 H I L BNN
+F3 "Osram Opto" 0 0 50 H I L BNN
+F4 "0805 Osram Opto" 0 0 50 H I L BNN
+F5 "Good" 0 0 50 H I L BNN
+F6 "LED Uni-Color Green 572nm 2-Pin Chip 0805_2012Metric_ T/R" 0 0 50 H I L BNN
+F7 "LGR971" 0 0 50 H I L BNN
+F8 "0.07 USD" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 50 0 0 -100 N
+P 2 0 0 10 0 -100 -50 0 N
+P 2 0 0 10 50 -100 0 -100 N
+P 2 0 0 10 0 -100 -50 -100 N
+P 2 0 0 10 50 0 0 0 N
+P 2 0 0 10 0 0 -50 0 N
+P 2 0 0 6 0 0 0 -100 N
+P 2 0 0 6 -80 -30 -135 -85 N
+P 2 0 0 6 -75 -75 -130 -130 N
+P 3 0 0 6 -135 -85 -120 -50 -100 -70 F
+P 3 0 0 6 -130 -130 -115 -95 -95 -115 F
+X C C 0 -200 100 U 40 40 0 0 P 
+X A A 0 100 100 D 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

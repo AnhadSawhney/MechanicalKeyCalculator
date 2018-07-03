@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 593D475X9035C2TE3
+#/184605/39512/2.26/2/5/Capacitor
+DEF 593D475X9035C2TE3 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "593D475X9035C2TE3" 350 150 50 H V L CNN
+F2 "CAPPM6032X280N" 350 50 50 H I L CNN
+F3 "http://www.vishay.com/docs/45226/vj31xrohsautomlcc.http://docs-europe.electrocomponents.com/webdocs/0d97/0900766b80d97c10.pdf" 350 -50 50 H I L CNN
+F4 "Vishay 10% 4.7F 35 V dc SMD Tantalum Electrolytic Capacitor, 6032-28 ESR 500m +125C" 350 -150 50 H I L CNN "Description"
+F5 "2.8" 350 -250 50 H I L CNN "Height"
+F6 "Vishay" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "593D475X9035C2TE3" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "6844601P" 350 -550 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/products/6844601P" 350 -650 50 H I L CNN "RS Price/Stock"
+F10 "70398940" 350 -750 50 H I L CNN "Allied_Number"
+F11 "https://www.alliedelec.com/vishay-dale-593d475x9035c2te3/70398940/" 350 -850 50 H I L CNN "Allied Price/Stock"
+F12 "593D475X9035C2TE3" 350 -950 50 H I L CNN "Arrow Part Number"
+F13 "https://www.arrow.com/en/products/593d475x9035c2te3/vishay" 350 -1050 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 B
+X ~ 2 500 0 200 L 50 50 0 0 B
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PI4ULS5V201TAEX
+#
+DEF PI4ULS5V201TAEX IC 0 30 Y Y 1 F N
+F0 "IC" 250 250 50 H V L CNN
+F1 "PI4ULS5V201TAEX" 250 150 50 H V L CNN
+F2 "SOT95P280X115-6N" 1050 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/PI4ULS5V201.pdf" 1050 0 50 H I L CNN
+F4 "1-Bit Bi-directional Level Shifter with Automatic Sensing" 1050 -100 50 H I L CNN "Description"
+F5 "1.15" 1050 -200 50 H I L CNN "Height"
+F6 "Pericom" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PI4ULS5V201TAEX" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "PI4ULS5V201TAEX" 1050 -700 50 H I L CNN "Arrow Part Number"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 B
+X VCCA 3 0 -200 200 R 50 50 0 0 B
+X VCCB 4 900 -200 200 L 50 50 0 0 B
+X B 5 900 -100 200 L 50 50 0 0 B
+X ENABLE 6 900 0 200 L 50 50 0 0 B
+S 200 50 700 -250 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

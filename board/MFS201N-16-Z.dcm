@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MFS201N-16-Z
+D Sub-miniature Switch
+K
+F https://www.nidec-copal-electronics.com/e/catalog/switch/mfs.pdf
+$ENDCMP
+#
+#End Doc Library

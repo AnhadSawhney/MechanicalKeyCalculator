@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQH3NPN2R2MJ0L
+D Fixed Inductors 1212 2.2uH 20%
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/inductor/chip/o05e.ashx?la=en-gb.pdf
+$ENDCMP
+#
+#End Doc Library

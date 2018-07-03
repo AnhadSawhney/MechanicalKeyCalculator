@@ -1,0 +1,40 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+0805_R
+$EndINDEX
+$MODULE 0805_R
+Po 0 0 0 15 00000000 00000000 ~~
+Li 0805_R
+Cd VISHAY 45017 VJ...W1BC
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.300482 -1.20191 0.473192 0.473192 0 0.05 N V 21 "0805_R"
+T1 2.5025e-06 1.20357 0.473848 0.473848 0 0.05 N V 21 "VAL**"
+DS -0.3 -0.65 0.3 -0.65 0.127 21
+DS -0.3 0.65 0.3 0.65 0.127 21
+DC 1.8 -0.5 1.95 -0.5 0.2 21
+DS -0.1 -0.3 -0.1 0.3 0.2 21
+DS -0.1 0.3 0.2 0 0.2 21
+DS 0.2 0 -0.1 -0.3 0.2 21
+$PAD
+Sh "A" R 0.9 1.3 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.95 0
+$EndPAD
+$PAD
+Sh "C" R 0.9 1.3 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.95 0
+$EndPAD
+$EndMODULE 0805_R

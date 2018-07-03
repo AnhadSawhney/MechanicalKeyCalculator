@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PI4ULS5V201TAEX
+D 1-Bit Bi-directional Level Shifter with Automatic Sensing
+F https://www.diodes.com/assets/Datasheets/PI4ULS5V201.pdf
+$ENDCMP
+#
+#End Doc Library
